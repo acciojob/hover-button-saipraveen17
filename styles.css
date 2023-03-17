@@ -8,5 +8,6 @@ button{
 button:hover{
 	color:black;
 	background-color: yellow;
+	border:0 solid white;
 	border-radius:30px;
 }
